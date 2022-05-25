@@ -1,0 +1,12 @@
+# Checkpoints folder
+/.ipynb_checkpoints
+
+# Dask folder
+/dask-worker-space
+
+# Specific files
+Dask - London Smart Energy.ipynb
+PySpark - London Smart Energy.ipynb
+data/CC_LCL-FullData.csv
+data/LCL-FullData.zip
+data/daily-summary-data.gz
