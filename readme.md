@@ -17,7 +17,7 @@ Puisque le "Big data" est un élément principal du monde de data science, j'ai 
 Jusqu'ici j'ai fait:
 1. Le paramètre `chunksize` de la méthode `read_csv`.
 1. La bibliothèque Dask.
-1. PySpark API with Apache Spark.
+1. PySpark API avec Apache Spark.
 1. Talend Open Studio
 
 Le répertoire contient des notebooks et des versions pdf, tous les deux en Anglais et en Français
