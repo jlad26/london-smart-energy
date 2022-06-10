@@ -9,3 +9,9 @@ PySpark - London Smart Energy.ipynb
 data/CC_LCL-FullData.csv
 data/LCL-FullData.zip
 data/daily-summary-data.gz
+data/merged-processed-chunks.csv
+data/test-data.csv
+data/test-out.csv
+data/daily-summary-data (with dupes).gz
+data/unique-household-ids.csv
+data/unique-year-month.csv
