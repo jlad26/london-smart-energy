@@ -3,11 +3,11 @@
 ### English
 
 Since the data science world is all about "Big data", I decided to look at the different ways to manipulate datasets that are too large to be loaded into the memory of my laptop. So far I've covered:
-1. The `chunksize` parameter of pandas `read_csv`.
-1. The Dask library.
-1. PySpark API with Apache Spark.
-1. Talend Open Studio
-1. PostgreSQL
+1. The `chunksize` parameter of pandas `read_csv`. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Pandas%20chunksize%20-%20London%20Smart%20Energy%20EN.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Pandas%20chunksize%20-%20London%20Smart%20Energy%20EN.pdf)
+1. The Dask library. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Dask%20-%20London%20Smart%20Energy%20EN.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Dask%20-%20London%20Smart%20Energy%20EN.pdf)
+1. PySpark API with Apache Spark. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/PySpark%20-%20London%20Smart%20Energy%20EN.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/PySpark%20-%20London%20Smart%20Energy%20EN.pdf)
+1. Talend Open Studio [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Talend%20-%20London%20Smart%20Energy%20EN.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Talend%20-%20London%20Smart%20Energy%20EN.pdf)
+1. PostgreSQL [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/PostgreSQL%20-%20London%20Smart%20Energy%20EN.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/PostgreSQL%20-%20London%20Smart%20Energy%20EN.pdf)
 
 The repository contains notebooks and pdf versions, both in English and French.
 
@@ -18,11 +18,11 @@ The repository contains notebooks and pdf versions, both in English and French.
 Puisque le "Big data" est un élément principal du monde de data science, j'ai décidé de regarder les moyens différents pour traiter les jeux de données qui sont trop grands pour être chargés en la mémoire de mon laptop.
 
 Jusqu'ici j'ai fait:
-1. Le paramètre `chunksize` de la méthode `read_csv`.
-1. La bibliothèque Dask.
-1. PySpark API avec Apache Spark.
-1. Talend Open Studio
-1. PostgreSQL
+1. Le paramètre `chunksize` de la méthode `read_csv`. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Pandas%20chunksize%20-%20London%20Smart%20Energy%20FR.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Pandas%20chunksize%20-%20London%20Smart%20Energy%20FR.pdf)
+1. La bibliothèque Dask. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Dask%20-%20London%20Smart%20Energy%20FR.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Dask%20-%20London%20Smart%20Energy%20FR.pdf)
+1. PySpark API avec Apache Spark. [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/PySpark%20-%20London%20Smart%20Energy%20FR.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/PySpark%20-%20London%20Smart%20Energy%20FR.pdf)
+1. Talend Open Studio [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/Talend%20-%20London%20Smart%20Energy%20FR.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/Talend%20-%20London%20Smart%20Energy%20FR.pdf)
+1. PostgreSQL [Notebook](https://github.com/jlad26/london-smart-energy/blob/master/PostgreSQL%20-%20London%20Smart%20Energy%20FR.ipynb) [Pdf](https://github.com/jlad26/london-smart-energy/blob/master/PostgreSQL%20-%20London%20Smart%20Energy%20FR.pdf)
 
 Le répertoire contient des notebooks et des versions pdf, tous les deux en Anglais et en Français.
 
