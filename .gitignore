@@ -4,8 +4,15 @@
 # Dask folder
 /dask-worker-space
 
-# Specific files
+# Specific files and folders
 PySpark - London Smart Energy.ipynb
 /data
 /PostgreSQL
 /SQL
+
+# All duplicate files
+*duplicates*
+
+# Power BI
+*Power BI*
+*.pbix
